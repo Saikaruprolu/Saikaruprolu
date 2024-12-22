@@ -1,6 +1,6 @@
-### Hi 👋 I'm Sai Lakshmi
+### Hi 👋, I'm Sai Lakshmi
 
-## Experienced Data Analyst with 3 Years of Expertise
+ #Experienced Data Analyst with 3 Years of Expertise
 
 - 🔭 I’m currently working at Infosys
 - 🌱 I’m currently learning data story telling
