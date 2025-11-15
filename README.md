@@ -10,5 +10,5 @@
 - 💬 Ask me about: Power BI, SQL, Excel, DAX
 - 📫 How to reach me: saikaruprolu988@gmail.com
 - 😄 Pronouns:she/her
-- ⚡ Fun fact: I am funny
+
 
